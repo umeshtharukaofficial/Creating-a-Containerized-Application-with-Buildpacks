@@ -1,6 +1,6 @@
-# [Creating a Containerized Application with Buildpacks](https://www.cloudskillsboost.google/focuses/60087?parent=catalog)
+# Creating a Containerized Application with Buildpacks
 
-## Solution [here](https://youtu.be/iYdIC_Ln0zI)
+## Solution
 
 ### Run the following Commands in CloudShell
 
@@ -17,10 +17,4 @@ sudo chmod +x shell.sh
 
 ### Congratulations 🎉 for completing the Lab !
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+##### You have successfully completed the lab on Creating a Containerized Application with Buildpacks
